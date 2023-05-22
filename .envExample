@@ -2,4 +2,4 @@ PORT=3000
 
 JWT_HASH="senha"
 
-DB_URL="postgres://rfkglqnq:SjqMRm8Ur9SD8nEb88Cb35jY-kvAONCw@babar.db.elephantsql.com/rfkglqnq"
+DB_URL="Deploy do banco de dados"

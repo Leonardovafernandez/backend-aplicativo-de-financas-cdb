@@ -1,0 +1,5 @@
+PORT=3000
+
+JWT_HASH="clubedobugf"
+
+DB_URL="postgres://rfkglqnq:SjqMRm8Ur9SD8nEb88Cb35jY-kvAONCw@babar.db.elephantsql.com/rfkglqnq"
